@@ -1,0 +1,11 @@
+{
+  "name": "rambhajo-card",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node tools/check_fit.mjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.47.0"
+  }
+}
